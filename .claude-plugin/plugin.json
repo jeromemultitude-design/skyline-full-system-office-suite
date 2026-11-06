@@ -1,17 +1,18 @@
 {
   "name": "skyline-full-system-office-suite",
-  "version": "1.0.0",
-  "description": "A video editor that lives in Claude Code. Say \"edit this\" and it plans, cuts and quality-checks your video with ffmpeg on your own computer.",
+  "version": "1.1.0",
+  "description": "A whole digital company in Claude Code: 36 specialists, from Video Editor to Software Engineer, led by a Company Director.",
   "author": {
     "name": "Jerome Tabanao"
   },
   "license": "MIT",
   "keywords": [
+    "company",
+    "agents",
     "video",
-    "editing",
-    "ffmpeg",
-    "short-form",
-    "ads"
+    "web development",
+    "marketing",
+    "qa"
   ],
   "homepage": "https://github.com/jeromemultitude-design/skyline-full-system-office-suite",
   "repository": "https://github.com/jeromemultitude-design/skyline-full-system-office-suite"

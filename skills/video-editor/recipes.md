@@ -1,8 +1,3 @@
----
-name: video-recipes
-description: ffmpeg recipes for video editing. Use for trimming, joining, resizing for Reels/TikTok/Shorts (9:16), YouTube (16:9) or square, adding burned-in captions, normalizing loudness, compressing for sharing, extracting thumbnails or audio, and quality-checking an export.
----
-
 # Video editing (ffmpeg)
 
 These recipes need ffmpeg and ffprobe installed. This skill works on exported files.

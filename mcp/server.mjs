@@ -7,7 +7,7 @@ import os from "node:os";
 import path from "node:path";
 import readline from "node:readline";
 
-const NAME = "skyline-video", VERSION = "1.0.0", PROTOCOL = "2025-06-18";
+const NAME = "skyline-video", VERSION = "1.1.0", PROTOCOL = "2025-06-18";
 
 function run(cmd, args) {
   return new Promise((resolve, reject) => {
