@@ -1,0 +1,14 @@
+{
+  "name": "skyline",
+  "owner": {
+    "name": "Jerome Tabanao"
+  },
+  "plugins": [
+    {
+      "name": "skyline-full-system-office-suite",
+      "source": "./",
+      "description": "A video editor that lives in Claude Code."
+    }
+  ],
+  "description": "Skyline Full System Office Suite, a video editor that lives in Claude Code."
+}
